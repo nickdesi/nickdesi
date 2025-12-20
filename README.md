@@ -46,8 +46,9 @@ Mon approche consiste à partir d'un besoin concret pour créer un outil qui sim
 ### 📬 Échanges & Contact
 
 * 💬 **Une idée ?** Ouvre une *issue* sur un repo, je réponds avec plaisir !
+* 🐙 **GitHub** : [github.com/nickdesi](https://github.com/nickdesi)
 * 📍 **Localisation** : Gerzat, Auvergne (63)
 * 🔗 **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/nicolasdesimone/)
 
 ---
-<p align="center"><i>Propulsé par l'imagination à Gerzat. 🚀</i></p>
+<p align="center"><i>Propulsé par l'imagination 🚀</i></p>
