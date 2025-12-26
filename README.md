@@ -1,6 +1,7 @@
 # Salut, moi c’est Nicolas 👋
 
-### 🏀 Basketball Lover | 🤖 IA Lover
+### 🏀 Basketball Lover | 🤖 IA Lover | OpenData Lover
+
 Je ne suis pas développeur de métier, mais j'utilise mon imagination et la puissance de **[Google Antigravity](https://antigravity.google/)** pour transformer des **besoins terrain** en outils simples, scripts et prototypes fonctionnels.
 
 ---
