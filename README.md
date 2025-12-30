@@ -35,23 +35,6 @@ Je ne suis pas développeur de métier, mais j'utilise mon imagination et la pui
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/nickdesi/proxmenux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickdesi&repo=proxmenux&theme=nord&show_owner=true" alt="proxmenux" />
-  </a>
-  <a href="https://github.com/nickdesi/unbound-adguard-installer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickdesi&repo=unbound-adguard-installer&theme=nord&show_owner=true" alt="unbound-adguard" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickdesi&show_icons=true&theme=nord&count_private=true" alt="Nickdesi Stats" />
-</p>
-
----
-
 ### ⚡ En bref
 - 🔭 **Focus actuel** : J'améliore mes scripts d'installation LXC pour Proxmox.
 - 🏀 **Hoops63** : Je couvre l'actualité du basket auvergnat sur mon blog.
