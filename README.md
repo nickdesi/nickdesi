@@ -6,50 +6,59 @@ Je ne suis pas développeur de métier, mais j'utilise mon imagination et la pui
 
 ---
 
-### 🛠 Mon Univers Technique
+### 🛠️ Tech Stack
 
-![IA Lover](https://img.shields.io/badge/IA_Lover-FF69B4?style=flat-square&logo=openai&logoColor=white)![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57024?style=flat-square&logo=proxmox&logoColor=white)
-![Imagination](https://img.shields.io/badge/Powered_by-Antigravity-blue?style=flat-square)
-
----
-
-### 🚀 De l'imagination à la solution
-
-Mon approche consiste à partir d'un besoin concret pour créer un outil qui simplifie la vie :
-* 🏀 **Basket** : Gagner du temps sur l'analyse et le coaching grâce à la donnée.
-* 🤝 **Asso/Club** : Réduire la charge mentale des bénévoles par l'automatisation.
-* 🚌 **Local (Gerzat)** : Rendre la mobilité locale plus lisible et accessible.
-* 🧪 **Labs** : Expérimenter et tester des idées pour apprendre vite.
+| Infrastructure | Scripting & Dev | Outils |
+| :---: | :---: | :---: |
+| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Joplin](https://img.shields.io/badge/Joplin-1071E5?style=for-the-badge&logo=joplin&logoColor=white) <br> ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white) |
 
 ---
 
-### 🔥 Projets concrets
+### 🚀 Projets Phares (Infrastructure & SysAdmin)
+*Mes outils pour l'automatisation et la virtualisation.*
 
-| Projet | Pourquoi ? (Le pitch) | Lien |
-| :--- | :--- | :--- |
-| 🤝 **SCBA-Benevolat** | Centraliser l’organisation des bénévoles d'un club (adieu les tableurs). | [Repo 🔗](https://github.com/nickdesi/SCBA-Benevolat) |
-| 🏀 **basketball-stats** | Mettre des stats utiles entre les mains du staff technique. | [Repo 🔗](https://github.com/nickdesi/basketball-stats) |
-| 🚌 **BusTrainGerzat** | Simplifier les trajets bus/train au départ et arrivée de Gerzat. | [Repo 🔗](https://github.com/nickdesi/BusTrainGerzat) |
-| 🕹️ **pokescan** | Lab d'expérimentation et d'automatisation de données. | [Repo 🔗](https://github.com/nickdesi/pokescan) |
+| Projet | Description | Techno |
+| :--- | :--- | :---: |
+| **[proxmenux](https://github.com/nickdesi/proxmenux)** | Scripts et menus utilitaires pour la gestion avancée de Proxmox. | `Shell` |
+| **[unbound-adguard-installer](https://github.com/nickdesi/unbound-adguard-installer)** | Installation automatisée d'Unbound dans un conteneur LXC AdGuard sur Proxmox. | `Shell` |
+| **[dockploy](https://github.com/nickdesi/dockploy)** | Outil de déploiement simplifié pour environnements Docker. | `Shell` |
+| **[Joplin](https://github.com/nickdesi/Joplin)** | Installeur automatisé pour Joplin Server sur Proxmox LXC. | `Shell` |
+
+### 🏀 Dev & Utilitaires Locaux
+*Développement web, data et vie locale.*
+
+| Projet | Description | Techno |
+| :--- | :--- | :---: |
+| **[basketball-stats](https://github.com/nickdesi/basketball-stats)** | Outils d'analyse et de statistiques pour le basket. | `TypeScript` |
+| **[BusTrainGerzat](https://github.com/nickdesi/BusTrainGerzat)** | Application pour les horaires de transports (Bus/Train) à Gerzat. | `TypeScript` |
+| **[OasisClermont](https://github.com/nickdesi/OasisClermont)** | Projet lié à la communauté locale. | `Public` |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/nickdesi/proxmenux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickdesi&repo=proxmenux&theme=nord&show_owner=true" alt="proxmenux" />
+  </a>
+  <a href="https://github.com/nickdesi/unbound-adguard-installer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickdesi&repo=unbound-adguard-installer&theme=nord&show_owner=true" alt="unbound-adguard" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nickdesi&show_icons=true&theme=nord&count_private=true" alt="Nickdesi Stats" />
+</p>
 
 ---
 
-### 🧩 Ma Méthode
+### ⚡ En bref
+- 🔭 **Focus actuel** : J'améliore mes scripts d'installation LXC pour Proxmox.
+- 🏀 **Hoops63** : Je couvre l'actualité du basket auvergnat sur mon blog.
+- 📍 **Local** : Je développe des outils pour ma commune (Gerzat).
 
-* 💡 **Imagination First** : Je m'appuie sur **Google Antigravity** pour explorer et structurer mes idées.
-* 📖 **UX "README first"** : Un projet doit être compréhensible et utilisable en 60 secondes.
-* 📸 **Visuels parlants** : Je privilégie les démos et captures d'écran au long discours technique.
-* 🧱 **Pragmatisme** : Créer des outils robustes qui répondent à un vrai besoin terrain.
-
----
-
-### 📬 Échanges & Contact
-
-* 💬 **Une idée ?** Ouvre une *issue* sur un repo, je réponds avec plaisir !
-* 🐙 **GitHub** : [github.com/nickdesi](https://github.com/nickdesi)
-* 📍 **Localisation** : Gerzat, Auvergne (63)
-* 🔗 **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/nicolasdesimone/)
-
----
-<p align="center"><i>Propulsé par l'imagination 🚀</i></p>
+<div align="center">
+  <a href="https://hoops63.desimone.fr">
+    <img src="https://img.shields.io/badge/Blog-Hoops63-orange?style=for-the-badge&logo=ghost" alt="Blog" />
+  </a>
+</div>
