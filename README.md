@@ -22,7 +22,6 @@ Je ne suis pas développeur de métier, mais j'utilise mon imagination et la pui
 | **[proxmenux](https://github.com/nickdesi/proxmenux)** | Scripts et menus utilitaires pour la gestion avancée de Proxmox. | `Shell` |
 | **[unbound-adguard-installer](https://github.com/nickdesi/unbound-adguard-installer)** | Installation automatisée d'Unbound dans un conteneur LXC AdGuard sur Proxmox. | `Shell` |
 | **[dockploy](https://github.com/nickdesi/dockploy)** | Outil de déploiement simplifié pour environnements Docker. | `Shell` |
-| **[Joplin](https://github.com/nickdesi/Joplin)** | Installeur automatisé pour Joplin Server sur Proxmox LXC. | `Shell` |
 
 ### 🏀 Dev & Utilitaires Locaux
 *Développement web, data et vie locale.*
