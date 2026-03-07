@@ -29,10 +29,9 @@ Je ne suis pas développeur de métier, mais j'utilise mon imagination et la pui
 
 | Projet | Description | Techno |
 | :--- | :--- | :---: |
+| **[FFBB MCP Server](https://github.com/nickdesi/FFBB-MCP-Server)** | LE 1er serveur MCP de la FFBB. | `TypeScript` |
 | **[basketball-stats](https://github.com/nickdesi/basketball-stats)** | Outils d'analyse et de statistiques pour le basket. | `TypeScript` |
 | **[BusTrainGerzat](https://github.com/nickdesi/BusTrainGerzat)** | Application pour les horaires de transports (Bus/Train) à Gerzat. | `TypeScript` |
-| **[OasisClermont](https://github.com/nickdesi/OasisClermont)** | Projet lié à la communauté locale. | `Public` |
-
 ---
 
 ### ⚡ En bref
