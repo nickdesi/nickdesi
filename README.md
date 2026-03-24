@@ -15,7 +15,7 @@
 
 > *Pas développeur de métier — mais j'utilise l'IA et l'open data pour transformer des besoins terrain en outils qui fonctionnent vraiment.*
 
-🏀 **Bénévole SCBA** · 🤖 **MCP Builder** · 📡 **Open Data** · 📍 **Gerzat, Auvergne**
+🏀 **Bénévole SCBA** · 🤖 **MCP Builder** · 📡 **Open Data** · 📍 **Clermont-Ferrand, Auvergne**
 
 ---
 
