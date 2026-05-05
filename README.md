@@ -56,10 +56,10 @@ Je ne construis pas des démos pour faire joli. Je construis des petits produits
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏗️ FFBBApiClientV3</h3>
-      <p><strong>Client officieux pour structurer l'accès à l'API FFBB v3.</strong></p>
+      <h3>🏗️ FFBB Data Client</h3>
+      <p><strong>Client officieux pour structurer l'accès à l'API FFBB</strong></p>
       <p>Le socle technique utilisé pour explorer compétitions, organismes, équipes et résultats.</p>
-      <p><a href="https://github.com/nickdesi/FFBBApiClientV3">Repository</a></p>
+      <p><a href="https://github.com/nickdesi/ffbb-data-client">Repository</a></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     </td>
     <td width="50%">
@@ -128,7 +128,7 @@ flowchart LR
 ---
 
 <div align="center">
-  <strong>Open data utile. Basket de terrain. Infra maîtrisée.</strong><br />
+  <strong>Open data utile. Infra maîtrisée.</strong><br />
   <sub>Construit depuis Clermont-Ferrand, avec du café et quelques vrais problèmes à résoudre.</sub>
 </div>
 
