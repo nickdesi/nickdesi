@@ -99,8 +99,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nickdesi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=E57000&icon_color=007ACC" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickdesi&layout=compact&theme=tokyonight&hide_border=true&title_color=E57000" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickdesi&theme=tokyonight" alt="Profile details" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nickdesi&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nickdesi&theme=tokyonight" alt="Commit language" />
 
 <br /><br />
 
