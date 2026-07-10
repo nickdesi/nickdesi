@@ -125,9 +125,21 @@ flowchart LR
 <a href="https://github.com/nickdesi"><img src="https://img.shields.io/badge/GitHub-nickdesi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://gerzatlive.desimone.fr"><img src="https://img.shields.io/badge/Gerzat%20Live-007ACC?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Gerzat Live" /></a>
 <a href="https://hoops63.desimone.fr"><img src="https://img.shields.io/badge/Hoops63-E57000?style=for-the-badge&logo=ghost&logoColor=white" alt="Hoops63" /></a>
+<a href="https://github.com/nickdesi/nickdesi/security"><img src="https://img.shields.io/badge/Security-Policy-blue.svg" alt="Security Policy" /></a>
 
 <br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:E57000&height=120&section=footer" alt="Footer" />
 
 </div>
+
+---
+
+## 📌 Recommandations GitHub
+
+> Note de maintenance pour la présentation du dépôt profil.
+
+- **Description suggérée :** `Builder open data · MCP · basketball · self-hosted — outils utiles maintenus et utilisés depuis Clermont-Ferrand.`
+- **Topics suggérés :** `open-data`, `mcp`, `self-hosted`, `python`, `typescript`, `nextjs`, `dns`, `home-assistant`, `proxmox`, `claude-code`, `ai-agents`, `basketball`, `france`, `ffbb`
+
+🔒 Une **politique de sécurité** est disponible dans [SECURITY.md](SECURITY.md) : merci d'utiliser une *GitHub Security Advisory* privée pour tout signalement.
